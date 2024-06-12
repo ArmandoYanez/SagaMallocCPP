@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Referencias::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Referencias-Debug-977ef9720d6cdb553c26.json",
+					"jsonFile" : "target-Referencias-Debug-295bc66d3d3b6edabe6f.json",
 					"name" : "Referencias",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Asus ROG/Desktop/Uniat/Semestre 2/Programacion 2/Referencias/cmake-build-debug",
-		"source" : "C:/Users/Asus ROG/Desktop/Uniat/Semestre 2/Programacion 2/Referencias"
+		"build" : "C:/Users/Armando/Documents/C++/SagaMallocCPP/EjerciciosReferencias/cmake-build-debug",
+		"source" : "C:/Users/Armando/Documents/C++/SagaMallocCPP/EjerciciosReferencias"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }
